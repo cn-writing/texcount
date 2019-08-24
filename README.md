@@ -1,0 +1,2 @@
+# TeXcount Docker Image
+

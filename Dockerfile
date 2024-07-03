@@ -1,4 +1,4 @@
-FROM perl:5.40.0
+FROM perl:5.41.1
 LABEL maintainer="Julian Nonino <noninojulian@gmail.com>"
 
 ENV TEXCOUNT_VERSION 3_2_0_41
